@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Lab 2: Intro: Step 7 (RBE)
 Use the left arrow to go back!
